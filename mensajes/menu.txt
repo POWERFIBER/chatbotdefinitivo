@@ -1,0 +1,7 @@
+Elegi alguna de estas opciones:
+
+*1* - PAGINA WEB
+*2* - CATALOGO
+*3* - ASISTENCIA
+
+*0* - SALIR
